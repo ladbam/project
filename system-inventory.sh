@@ -2,7 +2,7 @@
 
 # Description: Script For System Inventory
 # Author: ladbam Email: kloversolutions@outlook.com
-# Github: https://github.com/ladbam/inventory.git
+# Github: https://github.com/ladbam/project.git
 # Description: Project [System Inventory]
 
 # Author: ladbam Email: kloversolutions@outlook.com
